@@ -1,5 +1,10 @@
 @rel_1
 @rel_2
+
 @master change
 @rel_2 conflict test
 @master change conflict
+
+@rel_2 conflict test
+@rel_2 conflict test confirmation
+
